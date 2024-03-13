@@ -124,7 +124,8 @@ cv2.destroyAllWindows()
 
 ### ii) Display the video
 
-![Uploading display vdo.png…]()
+![display vdo](https://github.com/vishal21004/Image_Acqusition-_using_Web_Camera/assets/119560110/2bd3c851-e3ca-453e-bb40-e7ff275e6798)
+
 
 
 
